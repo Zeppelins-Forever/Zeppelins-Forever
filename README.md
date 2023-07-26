@@ -5,7 +5,10 @@
 - Looking to learn C and Rust, as well as more encryption and networking technologies.
 - I can be reached at <a href="mailto:zeppelins-forever@proton.me?Subject=Hello%20ZeppelinsForever">zeppelins-forever@proton.me</a>
 
-My PGP Key:
+<details>
+<summary>My PGP Key</summary>
+<br>
+  
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -60,3 +63,5 @@ L3BlBw==
 =b2Nq
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</details>
