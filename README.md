@@ -6,7 +6,7 @@
 - I can be reached at <a href="mailto:zeppelins-forever@proton.me?Subject=Hello%20ZeppelinsForever">zeppelins-forever@proton.me</a>
 
 My PGP Key:
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGP0DC0BEACotO2rM9mqoD0AnuqXwKuh9dkgok35sQuO5u3wq+8tkcdze30h
@@ -59,3 +59,4 @@ SXvs+BPjlVwX4TKIW97BttRW+WwpIeZvgjxAnKtdOU/89OsBJmEuqeIUpZsMxh85
 L3BlBw==
 =b2Nq
 -----END PGP PUBLIC KEY BLOCK-----
+```
